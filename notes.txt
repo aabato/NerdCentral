@@ -1,0 +1,21 @@
+Notes from Lesson 8/3/14
+
+P.S. your teacher's hot.
+
+JQuery!!
+
+Set of utilities: Uses: Manipulating the site, doing animations, doing AJAX request -- call to a server, DL info and allows the the browser to interact with
+
+Alias to $ - or jQuery (). Minimal interface. 
+
+Random class! (From Bootstrap): class jumbotron
+
+console.log($('.jumbotron'));
+jQuery is just a short hand of Javascript
+
+var jumbotron = document.querySelectorAll('.jumbotron')
+console.log(jumbotron)
+
+function animate() {
+	
+}
